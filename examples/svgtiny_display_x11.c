@@ -32,7 +32,7 @@
 #include <X11/keysym.h>
 #include <cairo.h>
 #include <cairo-xlib.h>
-#include "svgtiny.h"
+#include <svgtiny.h>
 
 
 struct svgtiny_diagram *diagram;
